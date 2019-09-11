@@ -1,2 +1,0 @@
-# banks
-bank login pages
